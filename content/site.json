@@ -13,6 +13,10 @@
   "navName": "Aspen McNealey",
   "contactEmail": "aspenmcnealey@gmail.com",
   "contactPhone": "503-884-5729",
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/in/aspenmcnealey/",
+    "whatsapp": "https://wa.me/15038845729"
+  },
   "hero": {
     "eyebrow": "Creative marketing portfolio",
     "titleTop": "Smart work.",
@@ -46,7 +50,7 @@
       "kicker": "Brand system draft",
       "copy": "A better-for-you condiment concept built around clean ingredients, shelf appeal, and a retro-meets-modern personality.",
       "image": "/assets/pdf-pages/page-08.png",
-      "color": "#dcebf0",
+      "color": "#196a86",
       "stats": [
         "Brand mockup",
         "Color psychology",
@@ -70,7 +74,7 @@
       "kicker": "Content direction",
       "copy": "A set of feed concepts for food and beverage moments, designed to feel scroll-stopping without losing clarity.",
       "image": "https://cdn.jsdelivr.net/gh/sfilangio01/aspen-assets@main/media/1782725190799-cerimonie.jpg?v=1782725192216",
-      "color": "#eee2b9",
+      "color": "#000000",
       "stats": [
         "Feed planning",
         "Visual rhythm",
@@ -204,9 +208,5 @@
     "body": "For creative teams, hospitality brands, agencies, or talent-led businesses that need someone upbeat, organized, and visually fluent.",
     "location": "Oregon roots, travel-ready mindset.",
     "social": "LinkedIn + WhatsApp ready for direct outreach."
-  },
-  "socialLinks": {
-    "linkedin": "https://www.linkedin.com/in/aspenmcnealey/",
-    "whatsapp": "https://wa.me/15038845729"
   }
 }
