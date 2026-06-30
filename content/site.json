@@ -54,7 +54,7 @@
       "statCard": "#ffffff"
     },
     "toolkit": {
-      "background": "#ff0000",
+      "background": "#000000",
       "text": "#fff9ef",
       "muted": "#eadfcb",
       "accent": "#2f6f79",
